@@ -1,5 +1,0 @@
-Going to test deep_links_not_working with correct date at 2018-01-22 16:06:17.626768
-200 is php response status code and 200 is python response status code
-Value do not match for attribute: is_fuzzy_search_results, clash is between True in PHP and False in Python
--- outlets is going to be sorted on the basic of id --
-outlets are not same in both so can not be compared

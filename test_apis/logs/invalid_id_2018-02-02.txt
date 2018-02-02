@@ -1,3 +1,0 @@
-Going to test invalid_id with correct date at 2018-02-02 12:12:28.089673
-200 is php response status code and 200 is python response status code
-Test ends for invalid_id with correct date at 2018-02-02 12:12:31.499755

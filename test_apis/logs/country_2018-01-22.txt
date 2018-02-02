@@ -1,4 +1,0 @@
-Going to test country with empty search scope and correct date at 2018-01-22 18:15:12.165335
-200 is php response status code and 200 is python response status code
--- countries is going to be sorted on the basic of id --
-Test ends for country at 2018-01-22 18:15:14.528171

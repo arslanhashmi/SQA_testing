@@ -1,4 +1,0 @@
-Going to test smiles_purchase with correct date at 2018-01-23 11:55:49.451747
-200 is php response status code and 200 is python response status code
-Value do not match for attribute: message, clash is between Transaction failed in PHP and This feature is currently unavailable. Please try again later. in Python
-Test ends for smiles_purchase at 2018-01-23 11:55:51.595213

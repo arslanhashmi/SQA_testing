@@ -1,2 +1,0 @@
-Going to test magneto_link with empty search scope and correct date at 2018-01-22 17:32:27.005855
-405 is php response status code and 405 is python response status code

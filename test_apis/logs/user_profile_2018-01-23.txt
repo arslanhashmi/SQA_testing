@@ -1,8 +1,0 @@
-Going to test user_profile with correct data at 2018-01-23 10:38:00.349507
-200 is php response status code and 200 is python response status code
-{'user_creation_date', 'days_since_registration'} difference in keys of document (Missing in PHP end point)
--- products is going to be sorted on the basic of id --
-Length of products do not match so can not be checked length of both lists are 14 in PHP and 0 in python
-Value types do not match for attribute: code, clash is between <class 'int'> in PHP and <class 'NoneType'> in Python)
-Value do not match for attribute: code, clash is between 200 in PHP and None in Python
-Test ends for user_profile at 2018-01-23 10:38:03.624538

@@ -1,3 +1,0 @@
-Going to test API response timings for delivery_status with correct data at 2018-01-26 16:23:20.166664
-Average time taken for 10 Php API hits took: 3.0623 secs
-Average time taken for 10 Python API hits took: 1.1450 secs

@@ -1,3 +1,0 @@
-Going to test API response timings for outlet_names_without_offer_id with correct data at 2018-01-26 16:40:20.329815
-Average time taken for 10 Php API hits took: 1.5174 secs
-Average time taken for 10 Python API hits took: 0.3226 secs

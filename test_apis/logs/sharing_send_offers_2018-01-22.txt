@@ -1,4 +1,0 @@
-Going to test sharing_send_offers with correct date at 2018-01-22 18:48:47.890324
-200 is php response status code and 200 is python response status code
-An expception occured local variable 'keys' referenced before assignment
-Test ends for sharing_send_offers at 2018-01-22 18:48:50.312964

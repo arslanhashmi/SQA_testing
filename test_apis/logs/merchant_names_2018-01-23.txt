@@ -1,4 +1,0 @@
-Going to test merchant_names with correct data at 2018-01-23 11:26:20.032971
-200 is php response status code and 200 is python response status code
-Value do not match for attribute: code, clash is between 0 in PHP and 200 in Python
-Test ends for merchant_names at 2018-01-23 11:26:23.636497

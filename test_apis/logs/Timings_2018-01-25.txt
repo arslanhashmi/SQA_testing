@@ -1,3 +1,0 @@
-Going to test Timings with correct data at 2018-01-25 12:36:54.309149
-Average time taken for 5 Php API hits took: 0.7438 secs
-Average time taken for 5 Python API hits took: 0.3199 secs

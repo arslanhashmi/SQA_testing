@@ -1,9 +1,0 @@
-Going to test sessions with empty search scope and correct date at 2018-01-22 17:53:23.009174
-Some data will be different for obvious reasons
-200 is php response status code and 200 is python response status code
-Value do not match for attribute: session_token, clash is between 7862295645a65dfa93dfa21.85585522 in PHP and 5440eacc-f27c-439b-b002-2cc9076637b1 in Python
-Value do not match for attribute: __sid, clash is between 10089289 in PHP and 10089292 in Python
-Value do not match for attribute: session_token, clash is between 7862295645a65dfa93dfa21.85585522 in PHP and 5440eacc-f27c-439b-b002-2cc9076637b1 in Python
-Value types do not match for attribute: code, clash is between <class 'str'> in PHP and <class 'int'> in Python)
-Value do not match for attribute: code, clash is between 11 in PHP and 11 in Python
-Test ends for sessions at 2018-01-22 17:53:38.871614

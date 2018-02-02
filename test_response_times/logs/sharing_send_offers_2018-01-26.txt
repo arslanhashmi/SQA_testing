@@ -1,3 +1,0 @@
-Going to test API response timings for sharing_send_offers with correct data at 2018-01-26 18:01:18.270753
-Average time taken for 10 Php API hits took: 2.5840 secs
-Average time taken for 10 Python API hits took: 0.5574 secs

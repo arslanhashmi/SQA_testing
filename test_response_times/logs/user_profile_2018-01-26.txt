@@ -1,3 +1,0 @@
-Going to test API response timings for user_profile with correct data at 2018-01-26 18:08:45.997158
-Average time taken for 10 Php API hits took: 2.1609 secs
-Average time taken for 10 Python API hits took: 1.1431 secs

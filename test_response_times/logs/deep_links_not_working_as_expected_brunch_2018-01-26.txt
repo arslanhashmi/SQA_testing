@@ -1,3 +1,0 @@
-Going to test API response timings for deep_links_not_working_as_expected_brunch with correct data at 2018-01-26 16:22:25.944583
-Average time taken for 10 Php API hits took: 2.5539 secs
-Average time taken for 10 Python API hits took: 2.7675 secs

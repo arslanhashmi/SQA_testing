@@ -1,3 +1,0 @@
-Going to test API response timings for invalid_id with correct data at 2018-01-26 16:26:41.411217
-Average time taken for 10 Php API hits took: 2.4823 secs
-Average time taken for 10 Python API hits took: 0.7096 secs

@@ -1,7 +1,0 @@
-{
-  "test_birthday_deeplinks.py::TestOutletEndPoints::()::test_with_all_correct_parameters": true,
-  "test_magneto_link.py::TestMerchantEndPoints::()::test_with_all_correct_parameters": true,
-  "test_outlets.py::TestOutletApis::()::test_with_missing_arguments": true,
-  "test_redemption.py::TestMerchantEndPoints::()::test_with_all_correct_parameters_redemption_sync": true,
-  "test_user_products.py::TestMerchantEndPoints::()::test_with_all_correct_parameters": true
-}

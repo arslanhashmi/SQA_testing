@@ -1,0 +1,3 @@
+Going to test API response timings for configs with correct data at 2018-01-26 16:20:53.554707
+Average time taken for 10 Php API hits took: 1.4744 secs
+Average time taken for 10 Python API hits took: 0.3473 secs

@@ -1,0 +1,3 @@
+Going to test API response timings for redemption_sync with correct data at 2018-01-26 16:41:59.448141
+Average time taken for 10 Php API hits took: 3.0162 secs
+Average time taken for 10 Python API hits took: 0.3197 secs

@@ -1,0 +1,3 @@
+Going to test API response timings for outlets with correct data at 2018-01-26 16:40:40.533155
+Average time taken for 10 Php API hits took: 3.9049 secs
+Average time taken for 10 Python API hits took: 1.5451 secs

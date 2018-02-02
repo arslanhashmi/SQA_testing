@@ -1,0 +1,3 @@
+Going to test API response timings for merchant_outlets_with_id with correct data at 2018-01-26 16:27:14.219250
+Average time taken for 10 Php API hits took: 2.1573 secs
+Average time taken for 10 Python API hits took: 0.5814 secs

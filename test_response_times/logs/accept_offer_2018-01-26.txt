@@ -1,0 +1,3 @@
+Going to test API response timings for accept_offer with correct data at 2018-01-26 17:33:23.063704
+Average time taken for 10 Php API hits took: 2.0327 secs
+Average time taken for 10 Python API hits took: 0.9355 secs

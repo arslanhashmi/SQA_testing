@@ -1,0 +1,3 @@
+Going to test API response timings for send_offer with correct data at 2018-01-26 17:32:16.467191
+Average time taken for 10 Php API hits took: 3.8042 secs
+Average time taken for 10 Python API hits took: 2.6340 secs

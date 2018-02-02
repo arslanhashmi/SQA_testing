@@ -1,0 +1,47 @@
+Going to test configs with empty search scope and correct date at 2018-01-22 17:57:02.688217
+200 is php response status code and 200 is python response status code
+{'config', 'cart_url'} difference in keys of document (Missing in Python end point)
+{'configs'} difference in keys of document (Missing in PHP end point)
+An expception occured 'config'
+An expception occured 'config'
+{'is_demographics_updated', 'using_trial', 'member_type', 'do_not_email', 'group_id', 'used_trial_membership', 'is_active', 'updated_at', 'created_at', 'date_of_birth', 'third_do_not_email', 'entity_id'} difference in keys of document (Missing in Python end point)
+{'is_using_trial', 'ego_registration_date', 'birthdate', 'processed', 'new_member_group', 'age_bracket', 'ego_status', 'city_of_residence', 'yearly_savings', 'education_level', 'residential_neighborhood', 'member_group', 'lifestyle_preference', 'app_id', 'app_name', 'marital_status', 'middlename', 'onboarding_startdate', 'update_time', 'savings', 'language', 'book_serial_number', 'lead_source', 'language_preference', 'affiliate_code_date', 'business_neighborhood', 'verified_phone_number', 'occupation_level', 'number_children', 'onboarding_enddate', 'membership_expiry', 'is_used_trial', 'income_bracket', 'about_me', 'receive_email', 'profile_image', 'trial_start_date', 'id', 'create_time', 'membership_status', 'third_email_opt_out', 'campaign_id', 'user_id', 'search_code', 'affiliates_info'} difference in keys of document (Missing in PHP end point)
+An expception occured 'is_demographics_updated'
+An expception occured 'is_demographics_updated'
+Value types do not match for attribute: nationality, clash is between <class 'str'> in PHP and <class 'NoneType'> in Python)
+Value do not match for attribute: nationality, clash is between  in PHP and None in Python
+An expception occured 'do_not_email'
+An expception occured 'do_not_email'
+An expception occured 'group_id'
+An expception occured 'group_id'
+Value types do not match for attribute: affiliate_code, clash is between <class 'str'> in PHP and <class 'NoneType'> in Python)
+Value do not match for attribute: affiliate_code, clash is between  in PHP and None in Python
+An expception occured 'updated_at'
+An expception occured 'updated_at'
+An expception occured 'date_of_birth'
+An expception occured 'date_of_birth'
+Value types do not match for attribute: work_address, clash is between <class 'str'> in PHP and <class 'NoneType'> in Python)
+Value do not match for attribute: work_address, clash is between  in PHP and None in Python
+Value types do not match for attribute: accepted_terms, clash is between <class 'str'> in PHP and <class 'int'> in Python)
+Value do not match for attribute: accepted_terms, clash is between 1 in PHP and 1 in Python
+An expception occured 'entity_id'
+An expception occured 'entity_id'
+An expception occured 'using_trial'
+An expception occured 'using_trial'
+An expception occured 'member_type'
+An expception occured 'member_type'
+An expception occured 'is_active'
+An expception occured 'is_active'
+An expception occured 'created_at'
+An expception occured 'created_at'
+Value types do not match for attribute: default_currency, clash is between <class 'str'> in PHP and <class 'int'> in Python)
+Value do not match for attribute: default_currency, clash is between USD in PHP and 45 in Python
+An expception occured 'used_trial_membership'
+An expception occured 'used_trial_membership'
+An expception occured 'third_do_not_email'
+An expception occured 'third_do_not_email'
+Value types do not match for attribute: home_address, clash is between <class 'str'> in PHP and <class 'NoneType'> in Python)
+Value do not match for attribute: home_address, clash is between  in PHP and None in Python
+An expception occured 'cart_url'
+An expception occured 'cart_url'
+Test ends for configs at 2018-01-22 17:57:05.425393

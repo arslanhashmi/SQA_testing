@@ -1,0 +1,7 @@
+Going to test offers with correct date at 2018-01-23 12:11:38.212288
+200 is php response status code and 403 is python response status code
+{'data'} difference in keys of document (Missing in Python end point)
+Value do not match for attribute: message, clash is between success in PHP and Session is tempered. -> token: 32041547358d0c5edeaa804.53272884, session_id: 10086660,user_id: 2692567, request: /api_consolidation/web/v59/outlets in Python
+An expception occured 'data'
+While comparing JSON an exception occured: 'data'
+Test ends for offers at 2018-01-23 12:11:41.679192

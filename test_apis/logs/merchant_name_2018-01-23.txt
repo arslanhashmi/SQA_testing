@@ -1,0 +1,5 @@
+Going to test merchant_name with correct data at 2018-01-23 11:26:18.163074
+500 is php response status code and 500 is python response status code
+{'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: message, clash is between {"cmd":"\/api_consolidation_v59\/web\/v59\/merchantname","success":false,"message":"No result was found for query although at least one row was expected.","httpResponse":500,"code":0,"version":null,"data":[]} in PHP and No result was found in Python
+Test ends for merchant_name at 2018-01-23 11:26:20.029475

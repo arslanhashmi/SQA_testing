@@ -1,0 +1,5 @@
+Going to test hotels with empty search scope and correct date at 2018-01-22 18:13:46.095255
+200 is php response status code and 200 is python response status code
+** Going to skip sorting for hotels ** as no available sorting option is present
+Length of hotels do not match so can not be checked length of both lists are 1197 in PHP and 0 in python
+Test ends for hotels at 2018-01-22 18:13:50.938804

@@ -1,0 +1,8 @@
+Going to test outlets with correct date at 2018-02-02 15:37:19.966567
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+{'is_new', 'is_monthly', 'is_redeemable'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: distance, clash is between 1985826 in PHP and 1985825 in Python
+{'is_new', 'is_monthly', 'is_redeemable'} difference in keys of document (Missing in PHP end point)
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Test ends for outlets with correct date at 2018-02-02 15:37:24.977518

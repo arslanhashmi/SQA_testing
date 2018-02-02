@@ -1,0 +1,4 @@
+Going to test redemption_sync at 2018-02-02 12:16:55.044114
+404 is php response status code and 404 is python response status code
+While comparing JSON an exception occured: Expecting value: line 1 column 1 (char 0)
+Test ends for redemption_sync at 2018-02-02 12:16:56.288385

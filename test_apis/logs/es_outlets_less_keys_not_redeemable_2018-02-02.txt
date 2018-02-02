@@ -1,0 +1,888 @@
+Going to test es_outlets with skiping user_id at 2018-02-02 12:15:25.528639
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping user_id at 2018-02-02 12:15:29.821368
+
+Going to test es_outlets with skiping device_model at 2018-02-02 12:15:29.821410
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping device_model at 2018-02-02 12:15:34.160859
+
+Going to test es_outlets with skiping os_version at 2018-02-02 12:15:34.160902
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping os_version at 2018-02-02 12:15:38.527303
+
+Going to test es_outlets with skiping include_featured at 2018-02-02 12:15:38.527354
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping include_featured at 2018-02-02 12:15:42.938891
+
+Going to test es_outlets with skiping category at 2018-02-02 12:15:42.938928
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 49 in PHP and 18 in python
+Test ends for es_outlets with skiping category at 2018-02-02 12:15:49.502212
+
+Going to test es_outlets with skiping app_version at 2018-02-02 12:15:49.502252
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping app_version at 2018-02-02 12:15:54.086291
+
+Going to test es_outlets with skiping lng at 2018-02-02 12:15:54.086334
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 50 in PHP and 6 in python
+Test ends for es_outlets with skiping lng at 2018-02-02 12:15:58.938876
+
+Going to test es_outlets with skiping company at 2018-02-02 12:15:58.938916
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping company at 2018-02-02 12:16:03.624822
+
+Going to test es_outlets with skiping sort at 2018-02-02 12:16:03.624865
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping sort at 2018-02-02 12:16:07.940726
+
+Going to test es_outlets with skiping outlet_limit at 2018-02-02 12:16:07.940767
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping outlet_limit at 2018-02-02 12:16:12.296094
+
+Going to test es_outlets with skiping location_id at 2018-02-02 12:16:12.296131
+200 is php response status code and 200 is python response status code
+Test ends for es_outlets with skiping location_id at 2018-02-02 12:16:14.229987
+
+Going to test es_outlets with skiping session_token at 2018-02-02 12:16:14.230032
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 2443546 in PHP and 2443546.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3505446 in PHP and 3505446.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Fine Dining in PHP and fine dining in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921243 in PHP and 3921243.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between kripykremeuae@americana-food.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between info@junglejuiceshop.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between info@junglejuiceshop.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921214 in PHP and 3921214.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 4733444 in PHP and 4733444.0 in Python
+Value do not match for attribute: email, clash is between bloomsburys.dubaimall@tablez.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3926940 in PHP and 3926940.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921154 in PHP and 3921154.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between kripykremeuae@americana-food.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3224410 in PHP and 3224410.0 in Python
+Value do not match for attribute: email, clash is between reservations.fujairah@hilton.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 3921255 in PHP and 3921255.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@lemeridien.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value do not match for attribute: is_cheers, clash is between True in PHP and False in Python
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 7294521 in PHP and 7294521.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Nightspots in PHP and nightspots in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: is_delivery, clash is between True in PHP and False in Python
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: is_delivery, clash is between True in PHP and False in Python
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between info@johnnyrocketsuae.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between corporate@shakespeareandco.ae in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between corporate@shakespeareandco.ae in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 2 in PHP and 1 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between applebees-arabian@anemco.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: email, clash is between bhupesh.prabhu@olearyssportsrestaurant.ae in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value do not match for attribute: is_cheers, clash is between True in PHP and False in Python
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between joesbar.mhfj@millenniumhotels.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between alrihla.mhfj@millenniumhotels.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between foodway@eim.ae in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between peppermill.barsha@tablez.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between rohit.bhat@jsbgroupme.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fujairah@fairmont.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+Value do not match for attribute: cuisine, clash is between Café in PHP and  in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between abela.sandellas@abelaandco.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: is_delivery, clash is between True in PHP and False in Python
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between abela.sandellas@abelaandco.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between dquae@bajco.net in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value do not match for attribute: is_cheers, clash is between True in PHP and False in Python
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@lemeridien.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Nightspots in PHP and nightspots in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fuj.fbconcierge@fairmont.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value types do not match for attribute: is_cheers, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value types do not match for attribute: is_delivery, clash is between <class 'int'> in PHP and <class 'bool'> in Python)
+Value do not match for attribute: tripadvisor_id, clash is between 0 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fuj.fbconcierge@fairmont.com in PHP and  in Python
+Value types do not match for attribute: top_offer_redeemability, clash is between <class 'int'> in PHP and <class 'str'> in Python)
+Value do not match for attribute: top_offer_redeemability, clash is between 0 in PHP and not_redeemable in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+Test ends for es_outlets with skiping session_token at 2018-02-02 12:16:17.998076
+
+Going to test es_outlets with skiping language at 2018-02-02 12:16:17.998116
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping language at 2018-02-02 12:16:22.927514
+
+Going to test es_outlets with skiping __platform at 2018-02-02 12:16:22.927556
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping __platform at 2018-02-02 12:16:27.480539
+
+Going to test es_outlets with skiping currency at 2018-02-02 12:16:27.480582
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping currency at 2018-02-02 12:16:31.717973
+
+Going to test es_outlets with skiping __i at 2018-02-02 12:16:31.718016
+403 is php response status code and 403 is python response status code
+{'http_response', 'success', 'cmd'} difference in keys of document (Missing in PHP end point)
+Test ends for es_outlets with skiping __i at 2018-02-02 12:16:33.260900
+
+Going to test es_outlets with skiping redeemability at 2018-02-02 12:16:33.260935
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 2443546 in PHP and 2443546.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3505446 in PHP and 3505446.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Fine Dining in PHP and fine dining in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3921243 in PHP and 3921243.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@starwoodhotels.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between kripykremeuae@americana-food.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between info@junglejuiceshop.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3926940 in PHP and 3926940.0 in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3921154 in PHP and 3921154.0 in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3921157 in PHP and 3921157.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 3224410 in PHP and 3224410.0 in Python
+Value do not match for attribute: email, clash is between reservations.fujairah@hilton.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 3921255 in PHP and 3921255.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@lemeridien.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 7294521 in PHP and 7294521.0 in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Nightspots in PHP and nightspots in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value do not match for attribute: is_delivery, clash is between True in PHP and False in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between info@johnnyrocketsuae.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between corporate@shakespeareandco.ae in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between corporate@shakespeareandco.ae in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between applebees-arabian@anemco.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_new', 'hotel', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between bhupesh.prabhu@olearyssportsrestaurant.ae in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_shared, clash is between False in PHP and True in Python
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 2 in python
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between joesbar.mhfj@millenniumhotels.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between alrihla.mhfj@millenniumhotels.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between foodway@eim.ae in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'is_redeemable', 'hotel', 'is_new', 'mall', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between feedback@galadariicecream.com in PHP and  in Python
+{'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between peppermill.barsha@tablez.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between rohit.bhat@jsbgroupme.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fujairah@fairmont.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+Value do not match for attribute: cuisine, clash is between Café in PHP and  in Python
+{'is_redeemable', 'hotel', 'is_new', 'email', 'is_monthly', 'score'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Length of offer_types_included do not match so can not be checked length of both lists are 1 in PHP and 0 in python
+Value do not match for attribute: is_delivery, clash is between True in PHP and False in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between abela.sandellas@abelaandco.com in PHP and  in Python
+Value do not match for attribute: digital_section, clash is between Cafés in PHP and cafés in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: is_purchased, clash is between False in PHP and True in Python
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between dquae@bajco.net in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Informal Dining & Takeaway in PHP and informal dining & takeaway in Python
+{'score', 'is_redeemable', 'is_monthly', 'is_new'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between reservation.lmaa@lemeridien.com in PHP and  in Python
+{'ad_active_status'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Nightspots in PHP and nightspots in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fuj.fbconcierge@fairmont.com in PHP and  in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+{'score', 'is_redeemable', 'mall', 'is_new', 'is_monthly'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: tripadvisor_id, clash is between 9999 in PHP and 0.0 in Python
+Value do not match for attribute: email, clash is between fuj.fbconcierge@fairmont.com in PHP and  in Python
+{'ad_active_status', 'cuisine'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: digital_section, clash is between Family & Casual in PHP and family & casual in Python
+Test ends for es_outlets with skiping redeemability at 2018-02-02 12:16:38.333091
+
+Going to test es_outlets with skiping offset at 2018-02-02 12:16:38.333132
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping offset at 2018-02-02 12:16:43.014868
+
+Going to test es_outlets with skiping device_key at 2018-02-02 12:16:43.014905
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 12 in python
+Test ends for es_outlets with skiping device_key at 2018-02-02 12:16:47.804419
+
+Going to test es_outlets with skiping lat at 2018-02-02 12:16:47.804461
+200 is php response status code and 200 is python response status code
+-- outlets is going to be sorted on the basic of id --
+Length of outlets do not match so can not be checked length of both lists are 43 in PHP and 6 in python
+Test ends for es_outlets with skiping lat at 2018-02-02 12:16:52.732958
+

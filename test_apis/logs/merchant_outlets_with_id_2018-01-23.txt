@@ -1,0 +1,5 @@
+Going to test merchant_outlets_with_id with correct data at 2018-01-23 11:26:16.357044
+500 is php response status code and 500 is python response status code
+{'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: message, clash is between {"cmd":"\/api_consolidation_v59\/web\/v59\/merchantoutlets\/26169","success":false,"message":"Warning: Invalid argument supplied for foreach()","httpResponse":500,"code":0,"version":null,"data":[]} in PHP and Sorry! No outlet found. in Python
+Test ends for merchant_outlets_with_id at 2018-01-23 11:26:18.159535

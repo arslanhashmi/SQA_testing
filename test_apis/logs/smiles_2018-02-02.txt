@@ -1,0 +1,4 @@
+Going to test smiles with correct date at 2018-02-02 12:17:24.941679
+200 is php response status code and 404 is python response status code
+While comparing JSON an exception occured: Expecting value: line 1 column 1 (char 0)
+Test ends for smiles at 2018-02-02 12:17:26.172898

@@ -1,0 +1,4 @@
+Going to test demographic_state with empty search scope and correct date at 2018-01-22 18:06:38.954196
+200 is php response status code and 200 is python response status code
+{'code'} difference in keys of document (Missing in PHP end point)
+Test ends for demographic_state at 2018-01-22 18:06:42.232437

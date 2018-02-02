@@ -1,0 +1,15 @@
+Data will be different as users created are different
+Going to test user with empty search scope and correct date at 2018-01-22 17:10:16.394161
+Some data will be different for obvious reasons
+200 is php response status code and 200 is python response status code
+{'code'} difference in keys of document (Missing in PHP end point)
+{'siteUID'} difference in keys of document (Missing in Python end point)
+{'device_uid', 'device_install_token', 'device_os', 'sitUID', 'device_model'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: user_id, clash is between 3683167 in PHP and 3683170 in Python
+Value do not match for attribute: __sid, clash is between 10089253 in PHP and 10089256 in Python
+Value do not match for attribute: __i, clash is between 3683167 in PHP and 3683170 in Python
+Value do not match for attribute: session_token, clash is between 13775044585a65d5889ab064.37031305 in PHP and 6c71e2b2-3452-4cca-bef0-716d944cca4f in Python
+An expception occured 'siteUID'
+An expception occured 'siteUID'
+Value do not match for attribute: session_token, clash is between 13775044585a65d5889ab064.37031305 in PHP and 6c71e2b2-3452-4cca-bef0-716d944cca4f in Python
+Test ends for user at 2018-01-22 17:10:24.955819

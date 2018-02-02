@@ -1,0 +1,135 @@
+Going to test home with skiping __i at 2018-01-24 15:47:23.897946
+403 is php response status code and 403 is python response status code
+{'success', 'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Test ends for home with skiping __i at 2018-01-24 15:47:25.470348
+
+Going to test home with skiping location_id at 2018-01-24 15:47:25.470385
+500 is php response status code and 400 is python response status code
+{'success', 'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: code, clash is between 500 in PHP and 400 in Python
+Value do not match for attribute: message, clash is between {"cmd":"\/api_consolidation_v59\/web\/v59\/home?__i=3682073&session_token=2567d6d5-ed83-4906-abfc-648159500f3e&language=en&company=entertainer&user_id=3682073&currency=AED&os_version=10.3&app_version=5.91.00&device_model=iPhone%206%20Plus&__platform=ios&__sid=10088096&device_key=ios-AB997B9A-87F9-4BAF-8577-78E912E027C4","success":false,"message":"Query parameter \"location_id\" is empty","httpResponse":500,"code":0,"version":null,"data":[]} in PHP and location_id: missing required parameter in Python
+Test ends for home with skiping location_id at 2018-01-24 15:47:27.158096
+
+Going to test home with skiping session_token at 2018-01-24 15:47:27.158135
+403 is php response status code and 403 is python response status code
+{'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Test ends for home with skiping session_token at 2018-01-24 15:47:28.646151
+
+Going to test home with skiping language at 2018-01-24 15:47:28.646190
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=TCwghgTvWHRL397dWYKW1kRVLLF4sML5aRInxVb%2BWzskn8rvsmStsIHlQGv5MLNq64p7t2s5Ni%2BS4VRzugVmP08zf65L2gwOHLdU62ucfl6dIf8IB6D%2B8xo0l6k8ibxxKwvjJh09%2B2KhXw683z4Z4Kbe8FUlWUuFf40glE1aCXnre05CHHmEtPZPOGo9Z0s2 in PHP and login=Ij%2Foc%2B%2BH0%2BHLb7WCQE%2FomuVmrVPsDQzYQ5SDWOHItuvCV3uvbTCI1sQy1Ioik40pKUCzGs7O2SrY%0Aa4saB0JIixXJIA1NBO%2FtAgKAMGI6Vz6VeHV58bnlDR5GNEanblZrUbaD4T4BmYe5k%2F6mzkzwA5Hq%0AeI%2BSTGCG1CcfvR7dvOVeWiptsorOAClWULk%2F1MolIXCGKRrbAln7qKeflyYUaQ%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping language at 2018-01-24 15:47:31.342609
+
+Going to test home with skiping company at 2018-01-24 15:47:31.342650
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=n4YhHtjd5ORCJxQM6MX1y84x3SOpv6B3IdiBDlDVFTribUNgv6YZxhyScQh9koPGG7lDx7mniUR4G9c36sMej6Gur1gK%2FJN%2FRHC0g0EIulYDs3O6UNjf5fNAzsAXtk%2F68IFWQG7Sf6oNeMtn1LlUQ1tJS6ZknJOeRDfkfDeqJk2xRJN9btPrTvWUhqgvx0QQ in PHP and login=ILfohDGgEVDo%2BiCwvf423nJID0DChHYIxEZuXENZRSlBy47JBTsSE4ZHm6IdJJXFZMAbOr16OCMI%0ACRsGbm6Tg6aqRMPHsQQqJ5EVXfVSVKHpy7mnj7%2FRXsBjJHbM2h4gAG0mxaWWrQYq2Ja%2B4TK%2B%2Brsl%0Afew5mBrEjOqZDpwrLbqQSMNrUqtSCy%2BalkkCzFxrsQUHtClQp4Ku3A5GPCmQnw%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping company at 2018-01-24 15:47:34.026407
+
+Going to test home with skiping user_id at 2018-01-24 15:47:34.026445
+500 is php response status code and 500 is python response status code
+{'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: message, clash is between {"cmd":"\/api_consolidation_v59\/web\/v59\/home?__i=3682073&location_id=2&session_token=2567d6d5-ed83-4906-abfc-648159500f3e&language=en&company=entertainer&currency=AED&os_version=10.3&app_version=5.91.00&device_model=iPhone%206%20Plus&__platform=ios&__sid=10088096&device_key=ios-AB997B9A-87F9-4BAF-8577-78E912E027C4","success":false,"message":"Query parameter \"user_id\" is empty","httpResponse":500,"code":0,"version":null,"data":[]} in PHP and Query parameter "user_id" is empty in Python
+Test ends for home with skiping user_id at 2018-01-24 15:47:35.718699
+
+Going to test home with skiping currency at 2018-01-24 15:47:35.718737
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=swXEy8MilfE0qHqcVvjglMVVgL4nCCc3ZKmH88elQ4eLsQBLCm7yE21nV00PDraJMRaENXA3u6irXgSuMZ4tZOG650PtGMcw6WkUeM0Vqkj8wU%2F%2FbHFB7t5uUpEVJtFHP9U4RSaUwAmalZnUYjQspG54fO8v4td3C4%2FwFICiY2iB2Cxa%2FBnX3g2Qxz1krYer in PHP and login=%2FLLRgm5awuVES7qMDnGCTJI%2FzTQ7dB5wkM%2BR%2FfwOi18dttMWtesBploxc7bjJC4XTUTK6X7QDxrj%0AL%2BAJAqSHTdMNQRP2AXnAu%2FYJVA7A6WQvLNHARGmmMClFXPdvyvoaTqpLKn7bRQ7bKy9y%2Fy7W86N9%0AO8vemO4GsK%2B8p9ETipZKTeySJo6bZ3XxQbGRp%2FlIk4WTRQpw4oXdwBczZNKmJg%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Congratulations & celebrations for saving USD 16,085 Muhammad!', 'Cue the confetti – you’ve saved USD 16,085! Cheers Muhammad!', 'Holla Muhammad! USD 16,085 in savings is something to brag about. Great going!', 'Whoa - you’ve saved USD 16,085 so far! Take a bow Muhammad.', 'Word’s out that you’re a rainmaker with USD 16,085 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Word’s out that you’re a rainmaker with USD 16085.39 saved up. Way to go Muhammad!', 'Whoa - you’ve saved USD 16085.39 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved USD 16085.39! Cheers Muhammad!', 'Holla Muhammad! USD 16085.39 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving USD 16085.39 Muhammad!'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Value do not match for attribute: savings_this_year, clash is between 16085 in PHP and 16085.39 in Python
+Test ends for home with skiping currency at 2018-01-24 15:47:38.621346
+
+Going to test home with skiping os_version at 2018-01-24 15:47:38.621387
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=QOnoviY1fjJQdiYfQH540%2FBnIMxOgNZvH3G7VdX06CJjlU3V6dFuYEt%2FbOParFF6IWkZA4lEdGtOX01h8d0n1RG2o1CiMfBlFKrvfkIixfC66F3aCetKHgGmCKuA80SK6uTfvmbXpCHlAPUY2IabOCHhjIDtmlqp5mjDQaay1Fx%2BlwIyxOaBrGFXIK66M1IW in PHP and login=Vtj2MRQ4CimOiSrioXv4G%2Bja4jII8h5BeZzx%2Fx%2FkRwUd3t%2BXzBfQxp86L0rvF6bfUowMaKCZMeKN%0AXVVogIrl1WqPaYqkztOAbkmO1nE%2FjejyKjYaaNfefyWFhLC2Hxtpd6tR2AhuFtGg1JZmuNSNOX9c%0AIq%2F%2FRZiffyTmASUZEWw3ynLRs8av9K1vxYmpgCtLdX6q8%2BhfMM9svwmeX%2BWfSw%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping os_version at 2018-01-24 15:47:41.232287
+
+Going to test home with skiping app_version at 2018-01-24 15:47:41.232328
+500 is php response status code and 400 is python response status code
+{'success', 'http_response', 'cmd'} difference in keys of document (Missing in PHP end point)
+Value do not match for attribute: code, clash is between 500 in PHP and 400 in Python
+Value do not match for attribute: message, clash is between {"cmd":"\/api_consolidation_v59\/web\/v59\/home?__i=3682073&location_id=2&session_token=2567d6d5-ed83-4906-abfc-648159500f3e&language=en&company=entertainer&user_id=3682073&currency=AED&os_version=10.3&device_model=iPhone%206%20Plus&__platform=ios&__sid=10088096&device_key=ios-AB997B9A-87F9-4BAF-8577-78E912E027C4","success":false,"message":"Query parameter \"app_version\" is empty","httpResponse":500,"code":0,"version":null,"data":[]} in PHP and app_version: missing required parameter in Python
+Test ends for home with skiping app_version at 2018-01-24 15:47:43.252606
+
+Going to test home with skiping device_model at 2018-01-24 15:47:43.252644
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=dLuFJobPPIxtVcndtX2w65YXMHEliHg4YPD9w54E5kH2SPSQzBvZ%2FDDWtCT4ycAbysY7BueZjYcYeZlTuvp7DJv%2FXCocPLUcSU32nRE7wF1IDgiZxh0qhTt1lkaEZIFCmdXGzwKWSjIgaNzcJxcj8bzsXuTRyd6LTXmwcEsU4v%2BDki%2F5dstmZVbHmQg9kwuc in PHP and login=B4P9uPb0QrP0iP4qWNZ1yZk2LYRQG37666JKXSywa8j3oVQSMQnfCN6K4wR2SW6Tfy3PJZsy50tZ%0AAhVzijzId5lQFsAHucwGh3rMXQK31i8vIwmbki8FKJnG8lgd10moICCnMU6LKz1EShrQKLt7WKiu%0AyRMagBuW3B4LTS4%2BsnEvFLzkE56oVskA9%2Bl%2Fo6DvBA%2B2MfCRV2PSfBjEKvWfeg%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping device_model at 2018-01-24 15:47:45.798593
+
+Going to test home with skiping __platform at 2018-01-24 15:47:45.798632
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=Bno8JIqXH3nDFQd%2B1yNXHVbRjfdlSkUM6GA6vBxqibJYEHB5gI9VKs2Ojl8A2VmnLQhDnvKcviie4KlIRVlxW6VAB161FrvxEMKK9o%2BdRN0V52oEQ48xfWwC0EKwfXCWfpkZ%2FK%2BZ48qWVVBghBckUF5yW0C8qg1rfA0PwGbVmp2kipi4JF82eeFbz3rdmIY9 in PHP and login=AMLhZFiKkS50o7uU6LB%2BJXamIO11QfM469N6VXO9TdWfokWfXZ9HRhqIXygE1V%2FUwcKSzjC34KO3%0AkDkRijm%2BfCt0Q8oG0dzxVuHtjvot1ezL5I5%2BxrO9sKHgYziXov27VHE5GtWZQjPSVS1JuZZevmS3%0AaTXZ5E8tp%2Fum%2FCFpOFwS6V4xxZOdO7d%2BCZ7P2z1zgLjfyA07COUIik0r57wXpw%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping __platform at 2018-01-24 15:47:48.681546
+
+Going to test home with skiping __sid at 2018-01-24 15:47:48.681581
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=F8agWqzF%2FYJczG8ddkRUobHfsBWHTBSmHTDiyHgA393F3NDlNz3OdLeBxBF6jESg2%2Fbghvv4hUj3aHMyRDdhTOtQUjgJ8quJC5MbkyjcMtq8lctg8j7t9ewMCOdgRcRK6o9jxSHrvUMbZzqSwRrjrZ4MpNgeRJMiTPsQx6aRN%2B1E1Q1thy8aUF112HwQrkk2 in PHP and login=HtBnasvO%2F%2B9MBEtMdxdoQLMniwGeGsMOauwViLqQAL%2BXYnPuG2D0DEq4aMrGZbLQ%2BXgqJnDNjM3p%0AtIORdqg5d689XmNrOcpBaGJl%2BX3eiM0scjNJ0IAZ4XOeaQwzOSFNwDA7a0Sg9U0guOTKCQAkcw6D%0Ar2vld4EyQuxIKx0A67IxDb1dxfEGO5H%2BEoclFyn26YgbVzFW2qP%2FwDOpkqcfmQ%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping __sid at 2018-01-24 15:47:51.467698
+
+Going to test home with skiping device_key at 2018-01-24 15:47:51.467737
+200 is php response status code and 200 is python response status code
+Value do not match for attribute: kaligo_sign_in_api_endpoint, clash is between https://entertainer.kaligo-staging.xyz/whitelabel/entertainer/sign_in in PHP and https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in in Python
+Value do not match for attribute: kaligo_encrypted_string, clash is between login=tvHqaWv0ULSjgeXXxu7WH5H1iLHzpkvyCdu%2BmJjyE%2BCvXI9a80HaDomsHVTx7B3VcObEGBJbANL5NvTn%2Bp4LJVCQTZqO5oi%2Ftv%2BiTjeX86Ekz5WPCDfdIAnAFVEpxNUzdoOsg%2Br56kOPCrr8896rbTs37yyog9bdX8hGLwDLQryzP63Y7%2F4PoE%2F9DXIi9D%2BJ in PHP and login=JWWjKQq8z5n4d4n%2BaevTUev0qn0oBZ%2B8auxNSiKj2s6gGLIrLQySDi5si0F4bqlZ1nsEmwvC8BrZ%0AIhPauUHo1kwS9LRisX%2FgvjOAMzh7UQSTZW6h3hLX%2B8tKPMsyLdPpWwWOTZCbLIoF%2BrSR%2BSX887OI%0AGTWSqgP%2FQNjG5PjfL7w8PA41zzIkjhD2qIwkzJ4FpEgIEy%2F9RAsZxb6Bum3fLw%3D%3D%0A in Python
+-- home_sections is going to be sorted on the basic of identifier --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of tile_id --
+-- tiles is going to be sorted on the basic of identifier --
+{'Holla Muhammad! AED 59,094 in savings is something to brag about. Great going!', 'Whoa - you’ve saved AED 59,094 so far! Take a bow Muhammad.', 'Cue the confetti – you’ve saved AED 59,094! Cheers Muhammad!', 'Congratulations & celebrations for saving AED 59,094 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59,094 saved up. Way to go Muhammad!'} element not present in comparision of list for attribute:messages (Missing in Python end point)
+{'Holla Muhammad! AED 59094.0 in savings is something to brag about. Great going!', 'Congratulations & celebrations for saving AED 59094.0 Muhammad!', 'Word’s out that you’re a rainmaker with AED 59094.0 saved up. Way to go Muhammad!', 'Cue the confetti – you’ve saved AED 59094.0! Cheers Muhammad!', 'Whoa - you’ve saved AED 59094.0 so far! Take a bow Muhammad.'} element not present in comparision of list for attribute:messages (Missing in PHP end point)
+Value types do not match for attribute: savings_this_year, clash is between <class 'int'> in PHP and <class 'float'> in Python)
+Test ends for home with skiping device_key at 2018-01-24 15:47:54.022369
+

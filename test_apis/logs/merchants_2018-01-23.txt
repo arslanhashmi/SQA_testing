@@ -1,0 +1,6 @@
+Going to test merchants with correct data at 2018-01-23 11:26:26.438235
+200 is php response status code and 500 is python response status code
+{'data'} difference in keys of document (Missing in Python end point)
+An expception occured 'data'
+While comparing JSON an exception occured: 'data'
+Test ends for merchants at 2018-01-23 11:27:08.734320

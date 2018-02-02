@@ -1,0 +1,5 @@
+Going to test outlet_names_with_offer_id with correct date at 2018-01-23 12:15:05.071815
+200 is php response status code and 200 is python response status code
+Value types do not match for attribute: data, clash is between <class 'dict'> in PHP and <class 'list'> in Python)
+While comparing JSON an exception occured: 'list' object has no attribute 'keys'
+Test ends for outlet_names_with_offer_id with correct date at 2018-01-23 12:15:09.395868

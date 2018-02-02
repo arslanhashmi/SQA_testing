@@ -1,0 +1,7 @@
+Going to test cheers with correct data at 2018-02-02 12:11:19.254280
+200 is php response status code and 200 is python response status code
+-- cheers_rules is going to be sorted on the basic of id --
+Value do not match for attribute: product_information, clash is between Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Dubai for 2018 in PHP and Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Dubai. in Python
+Value do not match for attribute: product_information, clash is between Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Bali. in PHP and Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Cyprus. in Python
+-- delivery_rules is going to be sorted on the basic of id --
+Test ends for cheers at 2018-02-02 12:11:21.272123

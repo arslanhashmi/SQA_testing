@@ -1,0 +1,55 @@
+Going to test user_products with correct data at 2018-02-02 12:17:28.420877
+200 is php response status code and 200 is python response status code
+{'code'} difference in keys of document (Missing in PHP end point)
+-- products is going to be sorted on the basic of sort_order --
+-- products is going to be sorted on the basic of id --
+Value do not match for attribute: product_validity_message, clash is between valid until 25 December 2018 in PHP and valid until 01 January 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-12-25T00:00:00+0400 in PHP and 2018-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D17DBCH in PHP and D17ADCH in Python
+Value do not match for attribute: id, clash is between 1970 in PHP and 1971 in Python
+Value do not match for attribute: name, clash is between Cheers Dubai 2017 in PHP and Cheers Abu Dhabi 2017 in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 25 December 2018 in PHP and valid until 01 January 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-12-25T00:00:00+0400 in PHP and 2018-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D17DBFM in PHP and D17ADAD in Python
+Value do not match for attribute: id, clash is between 2038 in PHP and 2071 in Python
+Value do not match for attribute: name, clash is between Dubai 2017 in PHP and Abu Dhabi 2017 in Python
+Value do not match for attribute: sku, clash is between D17DBFD in PHP and T16ADZO in Python
+Value do not match for attribute: id, clash is between 2064 in PHP and 2628 in Python
+Value do not match for attribute: name, clash is between Dubai Fine Dining 2017 in PHP and Entertainer Test Product Abu Dhabi in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2018 in PHP and valid until 01 January 2019 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-01-01T00:00:00+0400 in PHP and 2019-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D17DBBD in PHP and D18ADAD in Python
+Value do not match for attribute: id, clash is between 2087 in PHP and 4078 in Python
+Value do not match for attribute: name, clash is between Dubai Body 2017 in PHP and Abu Dhabi 2018 in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2018 in PHP and valid until 01 January 2019 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-01-01T00:00:00+0400 in PHP and 2019-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between T16DBZO in PHP and D18ADBD in Python
+Value do not match for attribute: id, clash is between 2579 in PHP and 4424 in Python
+Value do not match for attribute: name, clash is between Entertainer Test Product Dubai in PHP and Abu Dhabi Body 2018 in Python
+Value do not match for attribute: section_title, clash is between Dubai & N. Emirates in PHP and Abu Dhabi & Al Ain in Python
+-- products is going to be sorted on the basic of id --
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2018 in PHP and valid until 25 December 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-01-01T00:00:00+0400 in PHP and 2018-12-25T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D17ADCH in PHP and D17DBCH in Python
+Value do not match for attribute: id, clash is between 1971 in PHP and 1970 in Python
+Value do not match for attribute: name, clash is between Cheers Abu Dhabi 2017 in PHP and Cheers Dubai 2017 in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2018 in PHP and valid until 25 December 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2018-01-01T00:00:00+0400 in PHP and 2018-12-25T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D17ADAD in PHP and D17DBFM in Python
+Value do not match for attribute: id, clash is between 2071 in PHP and 2038 in Python
+Value do not match for attribute: name, clash is between Abu Dhabi 2017 in PHP and Dubai 2017 in Python
+Value do not match for attribute: sku, clash is between T16ADZO in PHP and D17DBFD in Python
+Value do not match for attribute: id, clash is between 2628 in PHP and 2064 in Python
+Value do not match for attribute: name, clash is between Entertainer Test Product Abu Dhabi in PHP and Dubai Fine Dining 2017 in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2019 in PHP and valid until 01 January 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2019-01-01T00:00:00+0400 in PHP and 2018-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D18ADAD in PHP and D17DBBD in Python
+Value do not match for attribute: id, clash is between 4078 in PHP and 2087 in Python
+Value do not match for attribute: name, clash is between Abu Dhabi 2018 in PHP and Dubai Body 2017 in Python
+Value do not match for attribute: product_validity_message, clash is between valid until 01 January 2019 in PHP and valid until 01 January 2018 in Python
+Value do not match for attribute: expiry_date, clash is between 2019-01-01T00:00:00+0400 in PHP and 2018-01-01T00:00:00+0400 in Python
+Value do not match for attribute: sku, clash is between D18ADBD in PHP and T16DBZO in Python
+Value do not match for attribute: id, clash is between 4424 in PHP and 2579 in Python
+Value do not match for attribute: name, clash is between Abu Dhabi Body 2018 in PHP and Entertainer Test Product Dubai in Python
+Value do not match for attribute: section_title, clash is between Abu Dhabi & Al Ain in PHP and Dubai & N. Emirates in Python
+Test ends for user_products at 2018-02-02 12:17:30.390546

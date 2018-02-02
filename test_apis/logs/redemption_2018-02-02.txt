@@ -1,0 +1,5 @@
+Going to test redemption with empty search scope and correct date at 2018-02-02 12:16:52.738367
+201 is php response status code and 201 is python response status code
+Value do not match for attribute: redemption_id, clash is between 30285114 in PHP and 30285117 in Python
+Value do not match for attribute: redemption_code, clash is between A-030-285-114 in PHP and A-030-285-117 in Python
+Test ends for redemption at 2018-02-02 12:16:55.040496
